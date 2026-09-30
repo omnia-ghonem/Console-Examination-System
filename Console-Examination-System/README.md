@@ -8,6 +8,8 @@ The project supports **Final Exams**, **Practical Exams**, **MCQ questions**, **
 
 ## 🎥 Console App Demo
 
+![Watch Demo](assets/OOP_Exam_Demo_Updated.mp4)
+
 <video controls>
   <source src="assets/OOP_Exam_Demo.mp4" type="video/mp4">
 </video>
