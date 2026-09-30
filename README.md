@@ -23,35 +23,35 @@ https://github.com/user-attachments/assets/43ea0ba9-723e-4cbc-8b62-4487cc05c5e1
 
 The application starts by asking whether the user is a **Teacher** or **Student**.
 
-<img src="assets/1.png" width="500">
+<img src="Console-Examination-System/assets/1.png" width="500">
 
 ### Teacher — Create Exam
 
 The teacher can create an exam, choose its type, duration, and number of questions.
 
-<img src="assets/4.png" width="500">
+<img src="Console-Examination-System/assets/4.png" width="500">
 
 
 ### Student — Start Exam
 
 Students can view active exams and choose one to start.
 
-<img src="assets/16.png" width="500">
+<img src="Console-Examination-System/assets/16.png" width="500">
 
 <br><br>
 
-<img src="assets/17.png" width="300">
+<img src="Console-Examination-System/assets/17.png" width="300">
 
 <br><br>
 
-<img src="assets/18.png" width="500">
+<img src="Console-Examination-System/assets/18.png" width="500">
 
 
 ### Exam Result
 
 After finishing, the student sees the grade, percentage, correct/wrong answers, pass/fail status, and elapsed time.
 
-<img src="assets/22.png" width="700">
+<img src="Console-Examination-System/assets/22.png" width="700">
 
 ---
 
