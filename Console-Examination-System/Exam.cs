@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace C45_G83_EXAM02
+namespace Console_Examination_System
 {
     public enum ExamStatus
     {

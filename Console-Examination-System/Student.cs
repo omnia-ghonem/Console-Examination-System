@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace C45_G83_EXAM02
+namespace Console_Examination_System
 {
     public class Student
     {

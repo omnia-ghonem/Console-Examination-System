@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
-namespace C45_G83_EXAM02
+namespace Console_Examination_System
 {
     public class MCQQuestion: Question
     {

@@ -1,6 +1,6 @@
 using System;
 
-namespace C45_G83_EXAM02
+namespace Console_Examination_System
 {
     public class ExamResult
     {
